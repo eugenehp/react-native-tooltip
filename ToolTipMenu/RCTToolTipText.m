@@ -1,4 +1,4 @@
-#import <React/RCTToolTipText.h>
+#import "RCTToolTipText.h"
 #import <React/RCTEventDispatcher.h>
 #import "UIView+React.h"
 
